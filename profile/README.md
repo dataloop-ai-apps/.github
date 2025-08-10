@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://dataloop.ai/" target="_blank" rel="noreferrer noopener">
-        <img width="900" src="https://github.com/dataloop-ai-apps/.github/blob/main/github_cover.png"></a>
+        <img width="900" src="https://github.com/dataloop-ai-apps/.github/blob/main/Heading.png"></a>
 </p>
 
 <div align="center">
